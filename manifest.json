@@ -1,0 +1,11 @@
+{
+  "name": "LIFE+",
+  "short_name": "LIFE+",
+  "description": "Tu vida, tus metas, tu mejor versión.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090611",
+  "theme_color": "#090611",
+  "orientation": "portrait"
+}
